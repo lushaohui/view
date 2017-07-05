@@ -6,7 +6,7 @@
  * Time: 16:19
  */
 
-namespace monitor\view;
+namespace lushaohui\view;
 
 
 class Base
